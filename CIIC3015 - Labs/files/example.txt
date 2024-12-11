@@ -1,0 +1,13 @@
+Avery,CS2,Eng1
+Beatrix,Calc1,Calc2,Chem1,Phys1
+Chevy,EngLit,INSO234,Calc2,EspLit,Eng1,Phys1
+Darian,Eng1,EngLit,Esp1,Calc1,CIIC3015,Calc2,CS1
+Eduardo,Phys2,Phys1,INSO234
+Felipe,EspLit,CIIC3015,Chem1,Calc2,CS2
+Grace,CS2
+Harold,Chem2,CS1,Phys2,Chem1,Calc2,Calc1,INSO234
+Irving,CS1,Phys1,Esp1,Chem2,Calc2,Calc1,EngLit
+Jared,Calc2,Eng1,CS2,Chem1,Calc1,CS1,EngLit,EspLit
+Karina,Phys2,Chem1,Calc1,Phys1,CIIC3015,Calc2
+Luis,Phys2,CS2
+
